@@ -1,11 +1,12 @@
-streamlit
-streamlit-webrtc
+streamlit==1.45.1
+streamlit-webrtc==0.47.9
 ultralytics
 opencv-python-headless
-av==12.3.0
+av==10.0.0
 torch
 torchvision
-numpy
+numpy<2
 pillow
 scipy
 matplotlib
+aiortc==1.6.0
